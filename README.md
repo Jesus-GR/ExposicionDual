@@ -1,1 +1,1 @@
-# Exposici-nDual
+# ExposicionDual
